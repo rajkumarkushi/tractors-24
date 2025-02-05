@@ -1,0 +1,5 @@
+# dependencies
+/node_modules
+backend/key.json
+backend/key_backup.json
+
