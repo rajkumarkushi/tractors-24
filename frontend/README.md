@@ -92,7 +92,7 @@ npm start
 - Sales tracking
 
 ## 👥 Contributors
-- [Your Name] - Full Stack Developer
+-  Rajkumar Enduri - Full Stack Developer
 
 ## 📝 License
 This project is licensed under the MIT License
